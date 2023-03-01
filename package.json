@@ -1,0 +1,24 @@
+{
+  "name": "mcom-commit",
+  "version": "1.0.0",
+  "description": "Standardized commit message format package",
+  "bin": "./my-cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McomTech-GmbH/mcom-commit.git"
+  },
+  "keywords": [
+    "commitizen",
+    "mcom"
+  ],
+  "author": "McomTech GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/McomTech-GmbH/mcom-commit/issues"
+  },
+  "homepage": "https://github.com/McomTech-GmbH/mcom-commit#readme",
+  "dependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
